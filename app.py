@@ -139,7 +139,7 @@ def index():
                 <h2>Lähdekoodi</h2>
 
                 <p>
-                    <a href="https://github.com/OMA-KAYTTAJANIMI/viikko2">
+                    <a href="https://github.com/SallaHei/viikko2_linux">
                         GitHub-repository
                     </a>
                 </p>
