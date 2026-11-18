@@ -135,8 +135,14 @@ def index():
                 <p>
                     Virtuaalikone  käynnistettiin uudelleen 4.11.2026 onnistuneesti. Nginx, Mariadb ja Python-sovellus käynnistyivät automaattisesti oikein. Kävijälaskurin arvo säilyi. Testi onnistui!
                 </p>
+<h2>Viikon 1 verkkosivu</h2>
 
-                <h2>Lähdekoodi</h2>
+<p>
+    <a href="/">
+        Takaisin viikon 1 etusivulle
+    </a>
+</p>
+                <h2>Tällainen tuli tällä kertaa</h2>
 
                 <p>
                     <a href="https://github.com/SallaHei/viikko2_linux">
