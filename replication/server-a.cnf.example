@@ -1,0 +1,8 @@
+# Sanitized MariaDB primary configuration
+# Server A
+
+[mariadbd]
+server_id = 1
+log_bin = /var/log/mysql/mariadb-bin
+binlog_format = ROW
+bind-address = 192.168.1.181
